@@ -1,0 +1,18 @@
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Release\Flash Player.vbproj.ResolveComReference.cache
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\bin\Release\Flash Player.exe
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\bin\Release\Flash Player.pdb
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\bin\Release\Flash Player.xml
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Release\Flash_Player.Form1.resources
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Release\Flash_Player.Resources.resources
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Release\Flash Player.vbproj.GenerateResource.Cache
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Release\Flash Player.exe
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Release\Flash Player.xml
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Release\Flash Player.pdb
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\bin\Release\Flash Player.exe.manifest
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\bin\Release\Flash Player.application
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Release\Flash Player.exe.manifest
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Release\Flash Player.application

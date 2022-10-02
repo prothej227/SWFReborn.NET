@@ -1,0 +1,14 @@
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\bin\Debug\Flash Player.exe
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\bin\Debug\Flash Player.pdb
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\bin\Debug\Flash Player.xml
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Debug\Flash Player.vbproj.ResolveComReference.cache
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Debug\Flash_Player.Form1.resources
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Debug\Flash_Player.Resources.resources
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Debug\Flash Player.vbproj.GenerateResource.Cache
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Debug\Flash Player.exe
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Debug\Flash Player.xml
+C:\Users\Journel Cabrillos\Documents\Visual Studio 2010\Projects\Flash Player\Flash Player\obj\x86\Debug\Flash Player.pdb
