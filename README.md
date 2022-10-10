@@ -1,2 +1,2 @@
 # SWFReborn.NET
-Supports SWF Playback thru AxSWFObject 10. 
+Supports SWF Playback thru AxSWFObject11. 
